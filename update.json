@@ -1,7 +1,9 @@
 {
-  "latest_version": "1.0.0",
-  "url": "https://raw.githubusercontent.com/Lcs2025bitlot/lcs-update/main/firmware_v1.0.0.bin",
+  "latest_version": "2.0.0",
+  "url": "https://raw.githubusercontent.com/Lcs2025bitlot/lcs-update/main/firmware_v2.0.0.bin",
   "changelog": [
-    "Initial release of LCS system."
+    "Performance improvements and stability fixes.",
+    "Added OTA update feature from dashboard.",
+    "New version 2.0.0 — ReviveTech LCS system."
   ]
 }
